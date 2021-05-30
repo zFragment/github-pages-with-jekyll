@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "zFragment's Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello! Nice to see you around! I am zFragment, preferrably on GitHub.
